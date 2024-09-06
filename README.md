@@ -11,7 +11,7 @@
 # Space Simulation
   Simple simulation of gravitational attraction between planetary and stellar bodies. The view can be zoomed in and out.
   
-![alt text](file:///c%3A/Users/Yafet/Downloads/Physics%20Simulation%20C%2B%2B%20-%20Copy/Physics%20Simulation/images/sim_1.png)
+![alt text]([file:///c%3A/Users/Yafet/Downloads/Physics%20Simulation%20C%2B%2B%20-%20Copy/Physics%20Simulation/images/sim_1.png](https://raw.githubusercontent.com/TonyBotSacks/Physics-Simulations/main/Physics%20Simulation/images/sim_1.png))
 
 # Falling Sand Simuation
   Simple sand falling simulator with adjusted gravity. 
