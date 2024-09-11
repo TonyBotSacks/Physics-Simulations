@@ -1,3 +1,7 @@
+#### Requires the Raylib library
+#### Press F5 to run the application after cloning
+#### You are able to choose from a diverse set of simulations in the UI.
+
 # Double Pendulum Simulation
   The masses and lengths of the pendulums can be adjusted on run time. The dynamics of the double pendulum are
   dependant on the physical constraints of the pendulums mass and length as well as the adjustable gravity.
@@ -17,8 +21,6 @@
   Simple sand falling simulator with adjusted gravity. 
   
 ![alt text](https://raw.githubusercontent.com/TonyBotSacks/Physics-Simulations/main/Physics%20Simulation/images/sim_2.png)
-
-# Requires The Raylib Library
 
 # Simulations In The Works
   - Fourier series simulator with sketch input
