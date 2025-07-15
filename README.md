@@ -23,7 +23,7 @@
 ![alt text](https://raw.githubusercontent.com/TonyBotSacks/Physics-Simulations/main/Physics%20Simulation/images/sim_2.png)
 
 # Simulations In The Works
-  - Fourier series simulator with sketch input
+  - Fluid Simulation
   - Interactive 2D cloth simulation
   - 2D rigidbody physics
   - 2D softbody physics
